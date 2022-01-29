@@ -2,6 +2,7 @@
 <h3 align="center">CS @ <a href=https://www.cise.ufl.edu target="blank">UF</a>,  Intern @ <a href=https://www.astrobotic.com target="blank">Astrobotic</a>,  Research @ <a href=https://frc.ri.cmu.edu target="blank">CMU</a></h3>
 
 <p>
+  
 - 👨‍💼 I'm currently interning at Astrobotic as a Software Engineer. 
   
 - 👷‍ I graduate in Spring 2022! 
